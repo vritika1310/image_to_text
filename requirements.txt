@@ -1,5 +1,5 @@
-opencv-python==4.2.0
+opencv-python>=4.2.0
 numpy==1.18.1
-tornado==6.0.3
-python==3.7.6
-pytesseract==0.3.6
+tornado>=6.0.3
+python>=3.7.6
+pytesseract>=0.3.6
