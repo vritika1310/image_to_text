@@ -16,5 +16,5 @@ Firstly we take image of vehicle as input. Then our model will detect the number
 4. Run the server using app.js and then open index.html.
 5. Now You are ready to use our app!! 
 
-# Error in deployment on heroku
-We have tried a lot for deploying our app to heroku but due to pyteeseract we are not able to deploy it.
+Error in deployment on heroku
+We have tried a lot for deploying our app to heroku but due to pytesseract we are not able to deploy it.
